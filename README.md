@@ -3,7 +3,7 @@
   A passionate individual with experience in Web Dev, ML and DL
 </h3>
 
-**About me**
+<h3 align="left">About me:</h3>
 
 - 💼 I'm a self-taught passionate developer from India
 - 💻 Primarily worked on Web and ML/DL based projects
