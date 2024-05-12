@@ -11,7 +11,7 @@
 
 <h3 align="left">Social Profiles:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohit-suryadevara-3430/" target="blank"
+  <a href="https://www.linkedin.com/in/mohit-suryadevara-3430/" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -19,7 +19,7 @@
       height="20"
       width="20"
   /></a>
-  <a href="https://stackoverflow.com/users/15247098/mo-3" target="blank"
+  <a href="https://stackoverflow.com/users/15247098/mo-3" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
@@ -27,7 +27,7 @@
       height="20"
       width="20"
   /></a>
-  <a href="https://www.kaggle.com/mohit3430" target="blank"
+  <a href="https://www.kaggle.com/mohit3430" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
@@ -35,7 +35,7 @@
       height="20"
       width="20"
   /></a>
-  <a href="https://www.leetcode.com/mohitsuryadevara" target="blank"
+  <a href="https://www.leetcode.com/mohitsuryadevara" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
@@ -47,7 +47,7 @@
 
 <h3 align="left">Tools and Languages:</h3>
 <p align="left">
-  <a href="https://aws.amazon.com" target="blank"
+  <a href="https://aws.amazon.com" target="_blank"
   ><img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
       alt="aws"
